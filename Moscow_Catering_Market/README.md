@@ -1,6 +1,6 @@
 # Рынок заведений общественного питания Москвы
 
-* [Ссылка на тетрадку JupiterNotebook с интерактивными графиками и хороплетами](https://github.com/nesterova-katya/Practicum_projects/tree/main/Moscow_Catering_Market/Moscow_Catering_Market.ipynb)
+* [Ссылка на тетрадку JupiterNotebook с интерактивными графиками и хороплетами](https://nbviewer.org/github/nesterova-katya/Practicum_projects/blob/main/Moscow_Catering_Market/Moscow_Catering_Market.ipynb)
 
 # Описание данных
 
