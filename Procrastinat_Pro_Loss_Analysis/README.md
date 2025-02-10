@@ -1,6 +1,8 @@
 # Исследование причин убыточности развлекательного приложения Procrastinate Pro+
 
+* [Ссылка на тетрадку JupiterNotebook ](https://nbviewer.org/github/nesterova-katya/Practicum_projects/blob/main/Procrastinat_Pro_Loss_Analysis/Procrastinat_Pro_Loss_Analysis.ipynb)
 
+  
 # Описание данных
 
 В нашем распоряжении три датасета. Файл **visits_info_short.csv** хранит лог сервера с информацией о посещениях сайта, **orders_info_short.csv** — информацию о заказах, а **costs_info_short.csv** — информацию о расходах на рекламу.
