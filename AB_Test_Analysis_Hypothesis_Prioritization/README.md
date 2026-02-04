@@ -1,5 +1,7 @@
 # Анализ А-В теста и приоритизация гипотез. Проверка гипотез для увеличения выручки интернет-магазина
 
+* [Ссылка на тетрадку JupiterNotebook](https://nbviewer.org/github/nesterova-katya/Practicum_projects/blob/main/AB_Test_Analysis_Hypothesis_Prioritization/AB_Test_Analysis_Hypothesis_Prioritization.ipynb)
+  
 - Я — аналитик крупного интернет-магазина. Вместе с отделом маркетинга мы подготовили список гипотез для увеличения выручки. Необходимо приоритизировать гипотезы, запустить A/B-тест и проанализировать результаты.
 
 # Описание данных
